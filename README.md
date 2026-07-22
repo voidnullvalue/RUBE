@@ -13,3 +13,8 @@ RUBE is designed around one principle:
 ## Status
 
 RUBE/1.0 is an experimental specification. Implementation is permitted; deployment is inadvisable.
+
+<!-- temporary retrieval bridge -->
+- [HN parallelogram CSV](https://media.githubusercontent.com/media/ZIB-IOL/neural-discovery-icml25/main/constructions/almost-5-coloring-2D/parallelogram.csv)
+- [HN mask CSV](https://media.githubusercontent.com/media/ZIB-IOL/neural-discovery-icml25/main/constructions/almost-5-coloring-2D/mask.csv)
+- [HN grid CSV](https://media.githubusercontent.com/media/ZIB-IOL/neural-discovery-icml25/main/constructions/almost-5-coloring-2D/grid.csv)
